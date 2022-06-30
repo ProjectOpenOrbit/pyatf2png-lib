@@ -1,2 +1,2 @@
 # pyatf2png-lib
-Python Library to convert ATF Textures to PNG
+Library for the conversion of ATF Textures to PNG.
